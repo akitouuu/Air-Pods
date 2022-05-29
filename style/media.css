@@ -102,7 +102,7 @@
 }
 
 @media(max-width: 580px) {
-    .img1 {
+    .img1, .img2 {
         width: 100%;
     }
 
